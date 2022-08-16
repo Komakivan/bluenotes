@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-(gmug!oumtq-90gp=s07(x2_0_de$j2bxn2&qw$sjh)cbg*=s+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','koma-notes.herokuapp.com']
 
 
 # Application definition
